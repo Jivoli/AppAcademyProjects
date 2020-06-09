@@ -1,0 +1,5 @@
+{
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.snippetSuggestions": "none",
+    "files.autoSave": "onWindowChange"
+}
